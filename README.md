@@ -7,7 +7,7 @@ The steps to run this project are really simple:
   (eg 1: for pip, run: pip install -r requirements.txt)
   (eg 2: for pipenv, run: pip install -r requirements.txt)
   - run the report launcher using : python report_launcher.py
-  - You're good to go! you have the report explaining all the project steps and output in a browser.
+  - You're good to go! you have the report explaining all the project steps and output in a browser.__
  Some additional information :
   Most of the functions are well commented and seperated from the report and can be found in backend_functions.py.
   There is a support notebook for the modeling section that the report can redirect you to.
