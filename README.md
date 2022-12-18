@@ -6,6 +6,7 @@ The steps to run this project are really simple:
   - Using a virtual environment of your choice install requirements from requirements.txt
   (eg 1: for pip, run: pip install -r requirements.txt)
   (eg 2: for pipenv, run: pip install -r requirements.txt)
+  Depending on your internet this might take around 5 to 10 mins, so just wait for it to complete installing all requirements
   - run the report launcher using : python report_launcher.py
   - You're good to go! you have the report explaining all the project steps and output in a browser.<br><br>
 Some additional information :<br>
