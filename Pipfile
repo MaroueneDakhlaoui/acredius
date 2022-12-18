@@ -8,6 +8,12 @@ pandas = "*"
 openpyxl = "*"
 numpy = "*"
 ipython = "*"
+seaborn = "*"
+sklearn = "*"
+scikit-learn = "*"
+plotly = "*"
+jinja2 = "*"
+optuna = "*"
 
 [dev-packages]
 
