@@ -3,6 +3,5 @@ openpyxl==*
 numpy==*
 ipython==*
 seaborn==*
-sklearn==*
 scikit-learn==*
 plotly==*
