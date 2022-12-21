@@ -453,7 +453,7 @@ and import it in the notebook.
 <br><br> The notebook is well documented and you can find everything there but for the sake of this report, I will 
 summarize the modelling part here.
 <br><br> Since there is no linear relationship between the data columns, we can not consider a Linear Regressor.
- <br><br> I decided to go with a Random Forrest Classifier and an XGBoost for the following reasons:</p>"""
+ <br><br> I decided to go with a Random Forrest Regressor and an XGBoost for the following reasons:</p>"""
 f.write(message)
 message = """<p style="text-indent: 20px;"> - Random forests do not require feature scaling because the decision trees
 that make up the forest are not sensitive to the scale of the features.</p>
