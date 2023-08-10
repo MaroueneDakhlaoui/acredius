@@ -1,4 +1,4 @@
-# fEATURE ENGINEERING FOR CROWDLENDING DATA
+# FEATURE ENGINEERING FOR CROWDLENDING DATA
 Thank you for checking out this project.
 The steps to run this project are really simple:
   - Downoad / pull the project.
